@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Going Green</string>
+
+    <string name="back_icon">Back</string>
+    <string name="box_icon">Box</string>
+    <string name="checkbox_icon">Checkbox</string>
+    <string name="add_icon">Add</string>
+    <string name="minus_icon">Minus</string>
+    <string name="pin_icon">Pin</string>
+
+    <string name="snakeplant">Snake Plant</string>
+    <string name="monstera">Monstera</string>
+    <string name="daylilies">Daylilies</string>
+    <string name="luckybamboo">Lucky Bamboo</string>
+
+    <string name="shopping_cart">Shopping Cart (123)</string>
+    <string name="items">(123)</string>
+    <string name="edit">Edit</string>
+
+    <string name="platform_voucher">Platform Voucher</string>
+    <string name="select">Select or Enter code</string>
+
+    <string name="total">Total: ₱1,169.75 \nSaved: ₱1,169.75</string>
+    <string name="check_out">Check Out (9)</string>
+
+    <string name="price1">₱ 138</string>
+    <string name="price2">₱ 125</string>
+    <string name="price3">₱ 250</string>
+    <string name="price4">₱ 100</string>
+
+    <string name="quantity1">2</string>
+    <string name="quantity2">1</string>
+    <string name="quantity3">3</string>
+    <string name="quantity4">5</string>
+</resources>
